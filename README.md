@@ -1,4 +1,4 @@
-# VS-Code-Online---code-server# Run VS Code in Google Colab or Kaggle with Ngrok Tunnel 🚀
+# VS-Code-Online__code-server__colab__kaggle# Run VS Code in Google Colab or Kaggle with Ngrok Tunnel 🚀
 
 This notebook allows you to run **Visual Studio Code (VS Code)** directly in **Google Colab** or **Kaggle** using **ngrok** to tunnel the remote environment to your browser. Whether you're working on a deep learning model, data analysis, or just need an IDE in the cloud, this setup is perfect for you!
 
