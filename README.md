@@ -16,7 +16,7 @@ This notebook allows you to run **Visual Studio Code (VS Code)** directly in **G
 
 ### For Google Colab
 1. Click on the following link to open the notebook directly in Google Colab:
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1khRseXeB-kyibTZIU7cdN8NSY2SUC4dU?usp=sharing)     
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeepHansda/VS-Code-Online__code-server__colab__kaggle/blob/main/vs_code_online.ipynb)     
 2. Run the cells sequentially, and it will automatically set up the ngrok tunnel and launch VS Code on port `8188`.
 
 ### For Kaggle
